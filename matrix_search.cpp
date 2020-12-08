@@ -93,6 +93,8 @@ void matrix_search(int sol[], string word, int rows, int cols, char **matrix)
                 return;
         }
   cout << "The pattern was not found." << endl;
+  for (int k=0; k<4; k++)
+	  sol[k]=-1;
 }
 
 bool up_left_check(int sol[], string word, int i, int j, char **matrix)
