@@ -1,5 +1,5 @@
 //Programmer: Phillip LaFrance
-//Intructor: Patrick Taylor		//Section: A		//Date: 02/04/2018
+//Instructor: Patrick Taylor		//Section: A		//Date: 02/04/2018
 //File: matrix_search.cpp		//Description: "Searches for a user defined string, inside a user defined 2D array of characters."
 #include "matrix_search.h"
 
