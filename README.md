@@ -4,11 +4,11 @@ Searches for a user defined string, inside a user defined 2D array of characters
 
 ### Prerequisites
 
-A development environment will be needed to test this project. [Code::Blocks](http://www.codeblocks.org/) was used for the development of this project and is the recommended environment.
+A development environment will be needed to test this project. [Code::Blocks](http://www.codeblocks.org/) was used for the development of this project.
 
 ### Testing
 
-Tests for this project can be run through the command line. Sample inputs and outputs can be found in the files:
+Tests for this project can be run through the console. Sample inputs and outputs can be found in the files:
 
 ```
 sample_input.txt
